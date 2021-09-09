@@ -8,5 +8,5 @@ class DemoApplication
 
 fun main(args: Array<String>) {
     runApplication<DemoApplication>(*args)
-    println("hola f1")
+    println("hola base")
 }
